@@ -1,0 +1,2 @@
+to run open cmd and type: "python AI.py"
+if asking for module then pip install <module>
